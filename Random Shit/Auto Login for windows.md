@@ -15,7 +15,7 @@ How to Enable AutoLogon for windows computers 
 
 DefaultUserName (shopfloor) 
 
-DefaultPassword (pass@word1) 
+DefaultPassword () 
 
 AutoAdminLogon (1) 
 
