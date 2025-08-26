@@ -11,10 +11,14 @@
             "id": "54a15ea1c1561d33",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Random Shit/dnslookup.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "dnslookup"
             }
           }
         ]
@@ -164,35 +168,35 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "f733a6b3091dec29",
+  "active": "54a15ea1c1561d33",
   "lastOpenFiles": [
-    "pages/Notes.md",
-    "pages/contents.md",
-    "Random Shit/show if hostname is up or down.md",
-    "Random Shit/ShippingUI Script.md",
-    "Random Shit/Shipping Sample Script.md",
-    "Random Shit/Setup Passwordless sudo.md",
-    "Random Shit/Querys.md",
-    "Random Shit/Ping all ip's in a file.md",
-    "Random Shit/Only show if hostname is up.md",
-    "Random Shit/nslookup.md",
-    "Random Shit/Network scanner.md",
-    "Random Shit/netplan.md",
-    "Random Shit/Linux Commands.md",
-    "Random Shit/ipscan.md",
-    "Random Shit/Install Powershell on Ubuntu.md",
-    "Random Shit/Grab scale logs.md",
-    "Random Shit/Floor Switch Setup.md",
-    "Random Shit/Floor Printing Fails.md",
-    "Random Shit/findfile.md",
-    "Random Shit/Failing Veeam password connection.md",
-    "Random Shit/dnslookup.md",
     "Random Shit/Commands to use for bluescreen.md",
     "Random Shit/Auto Power on for Beelink Mini Computer.md",
     "Random Shit/Auto Login for windows.md",
-    "2025-08-26.md",
+    "Random Shit/ADSync.md",
+    "Github/create repo.md",
+    "Github/Basic commands.md",
+    "Email Stuff/Icacls.md",
+    "cloud/civo.md",
+    "Ansible/Printers.md",
+    "Notes/Xcode.md",
+    "Notes/vscode.md",
+    "Notes/VIM.md",
+    "Notes/Vagrant.md",
+    "Notes/unix.md",
+    "Notes/TensorFlow.md",
+    "Notes/SVN.md",
+    "Notes/SQLite.md",
+    "Notes/Scala.md",
+    "Notes/ROOT.md",
+    "Notes/R.md",
+    "Notes/Python.md",
+    "Notes/pigz.md",
+    "Notes/Neo4j.md",
+    "Notes/MySQL.md",
+    "Notes/Lisp.md",
+    "Notes/LaTeX.md",
     "Pasted image 20250826082208.png",
-    "vpn.md",
     "Untitled.base"
   ]
 }
