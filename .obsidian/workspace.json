@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "infra/postgresql.md",
+                "file": "vpn.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "postgresql"
+              "title": "vpn"
             }
           }
         ]
@@ -168,8 +168,9 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "f733a6b3091dec29",
+  "active": "54a15ea1c1561d33",
   "lastOpenFiles": [
+    "infra/postgresql.md",
     "linux/Debian Cheat sheet.md",
     "Daily Notes/2025-08-27.md",
     "Daily Notes/2025-08-26.md",
@@ -197,7 +198,6 @@
     "Notes/ROOT.md",
     "Notes/R.md",
     "Notes/Python.md",
-    "Notes/pigz.md",
     "Untitled.base"
   ]
 }
