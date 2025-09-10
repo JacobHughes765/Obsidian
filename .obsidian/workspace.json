@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6a272e0ccdbc5188",
+        "id": "148932e915ae4d5e",
         "type": "tabs",
         "children": [
           {
-            "id": "54a15ea1c1561d33",
+            "id": "900e7826103f5c8a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -168,8 +168,24 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "54a15ea1c1561d33",
+  "active": "900e7826103f5c8a",
   "lastOpenFiles": [
+    "Random Shit/Linux Commands.md",
+    "Random Shit/netplan.md",
+    "Random Shit/ipscan.md",
+    "Random Shit/Install Powershell on Ubuntu.md",
+    "Random Shit/Grab scale logs.md",
+    "Random Shit/Floor Switch Setup.md",
+    "Random Shit/Floor Printing Fails.md",
+    "Random Shit/findfile.md",
+    "Random Shit/Failing Veeam password connection.md",
+    "Random Shit/dnslookup.md",
+    "Random Shit/Commands to use for bluescreen.md",
+    "Random Shit/Auto Power on for Beelink Mini Computer.md",
+    "Random Shit/Auto Login for windows.md",
+    "Random Shit/ADSync.md",
+    "Github/Basic commands.md",
+    "Github/create repo.md",
     "vpn.md",
     "Fortigate Debug for no token sending to email.md",
     "infra/postgresql.md",
@@ -178,26 +194,10 @@
     "Daily Notes/2025-08-26.md",
     "Daily Notes",
     "Daily Notes/Pasted image 20250826082208.png",
-    "Random Shit/dnslookup.md",
-    "Random Shit/Commands to use for bluescreen.md",
-    "Random Shit/Auto Power on for Beelink Mini Computer.md",
-    "Random Shit/Auto Login for windows.md",
-    "Random Shit/ADSync.md",
-    "Github/create repo.md",
-    "Github/Basic commands.md",
     "Email Stuff/Icacls.md",
     "cloud/civo.md",
     "Ansible/Printers.md",
     "Notes/Xcode.md",
-    "Notes/vscode.md",
-    "Notes/VIM.md",
-    "Notes/Vagrant.md",
-    "Notes/unix.md",
-    "Notes/TensorFlow.md",
-    "Notes/SVN.md",
-    "Notes/SQLite.md",
-    "Notes/Scala.md",
-    "Notes/ROOT.md",
     "Untitled.base"
   ]
 }
