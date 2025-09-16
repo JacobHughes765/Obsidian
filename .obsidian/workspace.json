@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vpn.md",
+                "file": "Fortigate Debug for no token sending to email.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "vpn"
+              "title": "Fortigate Debug for no token sending to email"
             }
           }
         ]
@@ -170,8 +170,9 @@
   },
   "active": "900e7826103f5c8a",
   "lastOpenFiles": [
-    "test.md",
     "vpn.md",
+    "Pasted image 20250916135317.png",
+    "test.md",
     "Fortigate Debug for no token sending to email.md",
     "Random Shit/Linux Commands.md",
     "Random Shit/netplan.md",
@@ -197,7 +198,6 @@
     "Daily Notes/Pasted image 20250826082208.png",
     "Email Stuff/Icacls.md",
     "cloud/civo.md",
-    "Ansible/Printers.md",
     "Untitled.base"
   ]
 }
