@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Github/Basic commands.md",
+                "file": "Fortigate Debug for no token sending to email.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Basic commands"
+              "title": "Fortigate Debug for no token sending to email"
             }
           }
         ]
@@ -170,8 +170,9 @@
   },
   "active": "900e7826103f5c8a",
   "lastOpenFiles": [
-    "Fortigate Debug for no token sending to email.md",
     "vpn.md",
+    "Github/Basic commands.md",
+    "Fortigate Debug for no token sending to email.md",
     "Pasted image 20250916135317.png",
     "test.md",
     "Random Shit/Linux Commands.md",
@@ -188,7 +189,6 @@
     "Random Shit/Auto Power on for Beelink Mini Computer.md",
     "Random Shit/Auto Login for windows.md",
     "Random Shit/ADSync.md",
-    "Github/Basic commands.md",
     "Github/create repo.md",
     "infra/postgresql.md",
     "linux/Debian Cheat sheet.md",
