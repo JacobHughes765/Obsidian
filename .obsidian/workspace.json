@@ -11,12 +11,14 @@
             "id": "900e7826103f5c8a",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Daily Notes/Pasted image 20250826082208.png"
+                "file": "vpn.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250826082208"
+              "icon": "lucide-file",
+              "title": "vpn"
             }
           }
         ]
@@ -168,12 +170,13 @@
   },
   "active": "900e7826103f5c8a",
   "lastOpenFiles": [
-    "Daily Notes/2025-08-27.md",
-    "Daily Notes/2025-08-26.md",
+    "Pasted image 20250916135317.png",
     "Fortigate Debug for no token sending to email.md",
     "vpn.md",
+    "Daily Notes/Pasted image 20250826082208.png",
+    "Daily Notes/2025-08-27.md",
+    "Daily Notes/2025-08-26.md",
     "Github/Basic commands.md",
-    "Pasted image 20250916135317.png",
     "test.md",
     "Random Shit/Linux Commands.md",
     "Random Shit/netplan.md",
@@ -193,7 +196,6 @@
     "infra/postgresql.md",
     "linux/Debian Cheat sheet.md",
     "Daily Notes",
-    "Daily Notes/Pasted image 20250826082208.png",
     "Email Stuff/Icacls.md",
     "cloud/civo.md",
     "Untitled.base"
