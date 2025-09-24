@@ -11,12 +11,14 @@
             "id": "900e7826103f5c8a",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20250916135317.png"
+                "file": "Github/Basic commands.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250916135317"
+              "icon": "lucide-file",
+              "title": "Basic commands"
             }
           }
         ]
@@ -168,13 +170,14 @@
   },
   "active": "900e7826103f5c8a",
   "lastOpenFiles": [
-    "vpn.md",
+    "Github/create repo.md",
+    "Github/Basic commands.md",
     "Pasted image 20250916135317.png",
+    "vpn.md",
     "Fortigate Debug for no token sending to email.md",
     "Daily Notes/Pasted image 20250826082208.png",
     "Daily Notes/2025-08-27.md",
     "Daily Notes/2025-08-26.md",
-    "Github/Basic commands.md",
     "test.md",
     "Random Shit/Linux Commands.md",
     "Random Shit/netplan.md",
@@ -190,7 +193,6 @@
     "Random Shit/Auto Power on for Beelink Mini Computer.md",
     "Random Shit/Auto Login for windows.md",
     "Random Shit/ADSync.md",
-    "Github/create repo.md",
     "infra/postgresql.md",
     "linux/Debian Cheat sheet.md",
     "Daily Notes",
