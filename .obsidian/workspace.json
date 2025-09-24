@@ -11,14 +11,12 @@
             "id": "900e7826103f5c8a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "vpn.md",
-                "mode": "source",
-                "source": false
+                "file": "Pasted image 20250916135317.png"
               },
-              "icon": "lucide-file",
-              "title": "vpn"
+              "icon": "lucide-image",
+              "title": "Pasted image 20250916135317"
             }
           }
         ]
@@ -170,9 +168,9 @@
   },
   "active": "900e7826103f5c8a",
   "lastOpenFiles": [
+    "vpn.md",
     "Pasted image 20250916135317.png",
     "Fortigate Debug for no token sending to email.md",
-    "vpn.md",
     "Daily Notes/Pasted image 20250826082208.png",
     "Daily Notes/2025-08-27.md",
     "Daily Notes/2025-08-26.md",
