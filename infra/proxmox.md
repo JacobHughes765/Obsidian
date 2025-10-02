@@ -1,4 +1,3 @@
-# Proxmox Cheat-Sheet
 
 ## VM Management
 
