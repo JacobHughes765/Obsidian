@@ -86,3 +86,5 @@ When The Computer's Model is scratched and you can't figure out which kind it is
 ```
 Get-CimInstance -ClassName Win32_ComputerSystem
 ```
+Get-CimInstance -ClassName Win32_PhysicalMemory | Format-Table SMBIOSMemoryType
+24 or 26 will populate, 24 is DDR3 and 26 is DDR4
