@@ -79,3 +79,10 @@
 | `Exit-PSSession` | Close the current remote session |
 | `Invoke-Command -ComputerName <name> -ScriptBlock { <command> }` | Run a command on a remote computer |
 | `Invoke-Command -ComputerName <name> -FilePath <script>` | Run a script on a remote computer |
+
+
+
+When The Computer's Model is scratched and you can't figure out which kind it is, Run this command.
+```
+Get-CimInstance -ClassName Win32_ComputerSystem
+```
