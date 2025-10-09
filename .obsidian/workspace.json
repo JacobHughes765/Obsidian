@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2025-10-08.md",
+                "file": "Daily Notes/2025-10-09.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-10-08"
+              "title": "2025-10-09"
             }
           }
         ]
@@ -170,8 +170,9 @@
   },
   "active": "f733a6b3091dec29",
   "lastOpenFiles": [
-    "Daily Notes/2025-10-07.md",
     "Daily Notes/2025-10-08.md",
+    "Daily Notes/2025-10-09.md",
+    "Daily Notes/2025-10-07.md",
     "Untitled.md",
     "Daily Notes/2025-10-06.md",
     "Fortigate Debug for no token sending to email.md",
@@ -195,7 +196,6 @@
     "Notes/ROOT.md",
     "misc/twisted-pair-cables.md",
     "misc/smtp-codes.md",
-    "misc/http-status-codes.md",
     "Pasted image 20250916135317.png",
     "Daily Notes/Pasted image 20250826082208.png",
     "Daily Notes",
