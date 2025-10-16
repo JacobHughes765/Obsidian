@@ -1,4 +1,5 @@
 [
   "github-sync",
-  "numerals"
+  "numerals",
+  "obsidian-local-rest-api"
 ]
