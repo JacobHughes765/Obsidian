@@ -166,10 +166,7 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "github-sync:Sync with Remote": false,
-      "smart-connections:Open: Smart Chat": false,
-      "smart-connections:Smart Connections: Open connections view": false,
-      "smart-connections:Smart Connections: Open random connection": true
+      "github-sync:Sync with Remote": false
     }
   },
   "active": "b78915aa78c171b5",
