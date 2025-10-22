@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "148932e915ae4d5e",
+        "id": "4e1677e140b1a8e6",
         "type": "tabs",
         "children": [
           {
-            "id": "728c9f1d70e9fc2d",
+            "id": "d3b5c7d1e0145a77",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Meeting Notes.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Meeting Notes"
+              "title": "New tab"
             }
           }
         ]
@@ -100,10 +96,10 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "728c9f1d70e9fc2d",
+  "active": "f733a6b3091dec29",
   "lastOpenFiles": [
-    "Daily Notes/2025-10-22.md",
     "Meeting Notes.md",
+    "Daily Notes/2025-10-22.md",
     "Daily Notes/2025-10-22.md~",
     "Daily Notes/2025-10-20.md",
     "Daily Notes/2025-08-27.md",
