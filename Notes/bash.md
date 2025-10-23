@@ -25,7 +25,7 @@ you can run.
 * `compgen -b` - show all the Bash builtins
 * `compgen -k` - show all the Bash keywords
 * `compgen -c` - show all the available commands
-* `compegn -a` - show all the aliases
+* `compgen -a` - show all the aliases
 * `compgen -A function` - show all the Bash functions
 
 ### loops on the command line
