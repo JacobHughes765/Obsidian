@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2025-10-23.md",
+                "file": "Daily Notes/2025-10-24.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-10-23"
+              "title": "2025-10-24"
             }
           }
         ]
@@ -170,11 +170,12 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "d3b5c7d1e0145a77",
+  "active": "f733a6b3091dec29",
   "lastOpenFiles": [
+    "Daily Notes/2025-10-23.md",
+    "Daily Notes/2025-10-24.md",
     "Daily Notes/2025-10-23.md~",
     "Daily Notes/2025-10-22.md",
-    "Daily Notes/2025-10-23.md",
     "Meeting Notes.md",
     "Daily Notes/2025-10-22.md~",
     "Daily Notes/2025-10-20.md",

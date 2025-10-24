@@ -45,6 +45,7 @@
         "creteria",
         "Csvfile",
         "ctrk",
+        "cvfz",
         "czvf",
         "datalab",
         "DCHID",
@@ -150,6 +151,7 @@
         "pvremove",
         "qcow",
         "Recents",
+        "reflog",
         "reponse",
         "rescan",
         "resolv",
@@ -185,6 +187,7 @@
         "titelcase",
         "traindata",
         "tuln",
+        "umes",
         "userdel",
         "USERDOMAIN",
         "usermod",
@@ -202,6 +205,7 @@
         "webviewer",
         "webxr",
         "WINDIR",
+        "xvfz",
         "xzvf"
     ]
 }
