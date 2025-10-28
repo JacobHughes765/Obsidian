@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "673699fdf3b2b3e1",
+        "id": "15787f02a18c149c",
         "type": "tabs",
         "children": [
           {
-            "id": "3b7db69d3a52ad88",
+            "id": "088793d573c9e871",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Notes/2025-10-28.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2025-10-28"
+              "title": "New tab"
             }
           }
         ]
@@ -53,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "ping hos",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -172,8 +168,9 @@
   },
   "active": "f733a6b3091dec29",
   "lastOpenFiles": [
-    "Daily Notes/2025-10-27.md",
+    "linux/Debian Cheat sheet.md",
     "Daily Notes/2025-10-28.md",
+    "Daily Notes/2025-10-27.md",
     "Daily Notes/2025-10-24.md",
     "Images/Pasted image 20250916135317.png",
     "Images/Pasted image 20251024085201.png",
@@ -204,7 +201,6 @@
     "infra/proxmox.md",
     "infra/postgresql.md",
     "infra/mysql.md",
-    "infra/DistroCode.md",
     "Images/Pasted image 20250826082208.png",
     "Daily Notes",
     "Untitled.base"
