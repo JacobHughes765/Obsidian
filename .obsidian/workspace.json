@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2025-10-29.md",
+                "file": "Daily Notes/2025-10-30.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-10-29"
+              "title": "2025-10-30"
             }
           }
         ]
@@ -172,8 +172,9 @@
   },
   "active": "f733a6b3091dec29",
   "lastOpenFiles": [
-    "Daily Notes/2025-10-28.md",
     "Daily Notes/2025-10-29.md",
+    "Daily Notes/2025-10-30.md",
+    "Daily Notes/2025-10-28.md",
     "linux/Debian Cheat sheet.md",
     "Daily Notes/2025-10-27.md",
     "Daily Notes/2025-10-24.md",
@@ -204,7 +205,6 @@
     "infra/sqlite.md",
     "infra/zfs.md",
     "infra/proxmox.md",
-    "infra/postgresql.md",
     "Images/Pasted image 20250826082208.png",
     "Daily Notes",
     "Untitled.base"
