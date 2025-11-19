@@ -1,38 +1,43 @@
 
+## 🖥️ Hardware / Device Support
+- **Location/Ticket:** 
+  **Issue:**  
+  **Action Taken:**  
+  **Result/Status:**  
 
-## ✅ Completed Tasks
+- **Location/Ticket:**  
+  **Issue:**  
+  **Action Taken:**  
+  **Result/Status:**  
 
-- **[Task Name or Issue]**
-  - [Brief description of what was completed or resolved].
-  
-- **[Task Name or Issue]**
-  - [Brief description of what was completed or resolved].
 
-## 🔄 In-Progress Tasks
+## 🛠️ Software / Systems Work
+- **System/Tool:**  
+  **Work Done / Progress:**  
 
-- **[Task Name or Issue]**
-  - [Brief description of what you're currently working on].
+- **System/Tool:**  
+  **Work Done / Progress:**  
 
-- **[Task Name or Issue]**
-  - [Brief description of what you're currently working on].
 
-## 📚 Learning & Development
+## 📚 Learning / Training
+- **Topic:**  
+  **What I Practiced / Learned:**  
 
-- **Ansible:**
-  - [What you worked on or learned today].
+- **Topic:**  
+  **What I Practiced / Learned:**  
 
-## 🖥️ Technical Support / IT Issues
 
-- **[Device/Issue Name]**
-  - [Details of what was resolved or what needs to be investigated].
-  
-- **[Device/Issue Name]**
-  - [Details of what was resolved or what needs to be investigated].
+## 🔍 Follow-Ups
+- [ ]  
+- [ ]  
 
-## 📝 Notes
 
-- [Additional thoughts, observations, or tasks to follow up on].
+## ⭐ Daily Summary
+**Highlights:**  
+-  
 
----
+**Challenges:**  
+-  
 
-*End of Daily Log*
+**Tomorrow’s Priorities:**  
+-  
