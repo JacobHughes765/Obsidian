@@ -1,7 +1,4 @@
 [
   "github-sync",
-  "numerals",
-  "mcp-tools",
-  "obsidian-local-rest-api",
-  "templater-obsidian"
+  "numerals"
 ]
