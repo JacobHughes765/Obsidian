@@ -1,31 +1,38 @@
-# Daily Work Log - [Date]
 
-## Completed Tasks
 
-- **[Task Name or Issue]**
-  - [Details of what was done or resolved].
-
-## In-Progress Tasks
+## ✅ Completed Tasks
 
 - **[Task Name or Issue]**
-  - [Details of what you're currently working on].
+  - [Brief description of what was completed or resolved].
+  
+- **[Task Name or Issue]**
+  - [Brief description of what was completed or resolved].
 
-## Learning & Development
+## 🔄 In-Progress Tasks
+
+- **[Task Name or Issue]**
+  - [Brief description of what you're currently working on].
+
+- **[Task Name or Issue]**
+  - [Brief description of what you're currently working on].
+
+## 📚 Learning & Development
 
 - **Ansible:**
-  - [Details of what you are learning or working on].
-  
-- **Zabbix:**
-  - [Details of what you are learning or working on].
-  
-- **Docker:**
-  - [Details of what you are learning or working on].
+  - [What you worked on or learned today].
 
-## Technical Support / IT Issues
+## 🖥️ Technical Support / IT Issues
 
 - **[Device/Issue Name]**
-  - [Details of the issue, what was resolved, or what needs to be investigated].
+  - [Details of what was resolved or what needs to be investigated].
+  
+- **[Device/Issue Name]**
+  - [Details of what was resolved or what needs to be investigated].
 
-## Other Notes
+## 📝 Notes
 
-- [Any additional notes or observations for the day].
+- [Additional thoughts, observations, or tasks to follow up on].
+
+---
+
+*End of Daily Log*
