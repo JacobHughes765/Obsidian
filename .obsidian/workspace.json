@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Task Template.md",
+                "file": "journals/2025-11-19.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Task Template"
+              "title": "2025-11-19"
             }
           }
         ]
@@ -174,14 +174,14 @@
   },
   "active": "382dab2c615298f1",
   "lastOpenFiles": [
+    "Templates/Task Template.md",
     "journals/2025-10-06.md",
     "journals/2025-09-24.md",
     "journals/2025-08-27.md",
+    "journals/2025-11-19.md",
     "journals/2025-08-26.md",
-    "Templates/Task Template.md",
     "Templates",
     "Untitled Kanban.md",
-    "journals/2025-11-19.md",
     "2025-11-19.md",
     "journals/2025-10-20.md",
     "journals/dailytemplate.md",
